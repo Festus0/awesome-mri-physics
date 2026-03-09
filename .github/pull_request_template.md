@@ -1,13 +1,20 @@
-## What does this PR add?
+## What does this PR do?
 
-- [ ] New tool/library
-- [ ] Documentation improvement
-- [ ] Broken link fix
-- [ ] Category update
+- [ ] Adds a new resource
+- [ ] Updates an existing resource
+- [ ] Fixes a broken link or description
 - [ ] Other
 
-## Checklist
-- [ ] I placed the item in the most relevant section
-- [ ] The link points to the official repo or homepage
-- [ ] The description is short and neutral
-- [ ] This is not a duplicate
+## Details
+
+Resource name:  
+URL:  
+Section:  
+
+Description (short, neutral):
+
+License/Access:
+
+## Additional info
+
+If this is a dataset or data-related resource, mention any usage restrictions.

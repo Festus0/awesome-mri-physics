@@ -1,0 +1,12 @@
+Path	Size	SHA256
+README.md	TBD	TBD
+CONTRIBUTING.md	TBD	TBD
+CODE_OF_CONDUCT.md	TBD	TBD
+LICENSE	TBD	TBD
+.github/pull_request_template.md	TBD	TBD
+.github/workflows/link-check.yml	TBD	TBD
+scripts/validate_bids.sh	TBD	TBD
+build_zip.sh	TBD	TBD
+ZIP_MANIFEST.tsv	TBD	TBD
+docs/GOVERNANCE.md	TBD	TBD
+docs/ROADMAP.md	TBD	TBD

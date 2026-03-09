@@ -1,0 +1,21 @@
+name: Add resource
+description: Suggest a new MRI-related resource
+title: "[Add]: "
+labels: ["type: addition"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+  - type: input
+    id: url
+    attributes:
+      label: Official URL
+  - type: input
+    id: section
+    attributes:
+      label: Suggested section
+  - type: textarea
+    id: description
+    attributes:
+      label: Short neutral description

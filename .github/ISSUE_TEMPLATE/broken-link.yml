@@ -1,0 +1,13 @@
+name: Broken link
+description: Report a broken or outdated link
+title: "[Broken link]: "
+labels: ["type: maintenance"]
+body:
+  - type: input
+    id: link
+    attributes:
+      label: Broken link
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
